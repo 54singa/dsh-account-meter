@@ -28,7 +28,9 @@
     "lib",
     "cordis.patch.yml",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "README.en.md",
+    "CHANGELOG.md"
   ],
   "dsh": {
     "client": {

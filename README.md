@@ -1,5 +1,7 @@
 # dsh-account-meter
 
+[English](README.en.md) | 中文
+
 DeepSeek Harness (dsh) Web GUI 的**账户计量小框**：在左侧栏设置按钮上方显示 **DSH 今日 token 总消耗与计价金额**，点击展开查看**每个 API 账户的余额与今日消耗**，并在设置页提供**可视化账户配置**。
 
 多账户（DeepSeek / Kimi / 任意服务商）余额与消费一目了然，**「DSH 消耗」口径明确标注**，绝不和账户总消费混淆。
