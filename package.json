@@ -1,6 +1,6 @@
 {
   "name": "dsh-account-meter",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "DeepSeek Harness (dsh) 右侧账户计量小框：多账户（DeepSeek / Kimi 等）余额 + DSH 内消费统计，当前接入账户高亮，消费口径标注「DSH 消耗」，设置页可视化账户配置。A right-side account meter for the DeepSeek Harness Web GUI: per-provider balance, DSH-local spend, active-account highlight and a visual account editor.",
   "keywords": [
     "dsh",
