@@ -4,6 +4,20 @@ A **account meter** for the DeepSeek Harness (dsh) Web GUI. Shows **today's DSH 
 
 Multi-provider (DeepSeek / Kimi / any provider) balance and usage at a glance, with the **「DSH usage」scope clearly labeled** — never confused with your provider-account total spend.
 
+## Screenshots
+
+Sidebar meter (above the Settings button):
+
+![Sidebar meter](docs/screenshot-sidebar-meter.png)
+
+Detail card (per-account balance + today's DSH spend + active highlight):
+
+![Detail card](docs/screenshot-detail-card.png)
+
+Stats dashboard in settings (today's summary + per-model / per-session details):
+
+![Stats dashboard](docs/screenshot-dashboard.png)
+
 ## Features
 
 - **Sidebar meter** (above the Settings button): `[DSH] Today 105.2M · ¥22.31 ⟳`

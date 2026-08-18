@@ -6,6 +6,20 @@ DeepSeek Harness (dsh) Web GUI 的**账户计量小框**：在左侧栏设置按
 
 多账户（DeepSeek / Kimi / 任意服务商）余额与消费一目了然，**「DSH 消耗」口径明确标注**，绝不和账户总消费混淆。
 
+## 截图
+
+侧边栏计量条（设置按钮上方）：
+
+![侧边栏计量条](docs/screenshot-sidebar-meter.png)
+
+点击展开的多账户明细卡（余额 + 今日 DSH 消耗 + 当前接入高亮）：
+
+![多账户明细卡](docs/screenshot-detail-card.png)
+
+设置页统计看板（今日汇总 + 按模型 / 会话明细）：
+
+![统计看板](docs/screenshot-dashboard.png)
+
 ## 功能
 
 - **侧边栏常驻条**（设置按钮上方）：`[DSH] 今日 105.2M · ¥22.31 ⟳`
